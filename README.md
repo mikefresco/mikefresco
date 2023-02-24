@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/mikefresco)
-  - [FIM (File Integrity Monitor)](https://github.com/mikefresco)
+  - [Azure Sentinel (SIEM)](https://github.com/mikefresco)
+  - [Active Directory Lab](https://github.com/mikefresco)
+  - [Vulnerability Management with Nessus ](https://github.com/mikefresco)
 
 
 <h2> 🤳 Connect with me:</h2>
