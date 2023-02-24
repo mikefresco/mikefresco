@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel (SIEM)](https://github.com/mikefresco)
-  - [Active Directory Lab](https://github.com/mikefresco)
-  - [Vulnerability Management with Nessus ](https://github.com/mikefresco)
+  - [COMING SOON Azure Sentinel (SIEM)](https://github.com/mikefresco)
+  - [COMING SOON Active Directory Lab](https://github.com/mikefresco)
+  - [COMING SOON Vulnerability Management with Nessus ](https://github.com/mikefresco)
 
 
 <h2> 🤳 Connect with me:</h2>
